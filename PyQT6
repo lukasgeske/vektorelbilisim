@@ -1,13 +1,7 @@
-<<<<<<< HEAD
-from PyQT6.QWidgets import =
-
-
+from PyQt6.QtWidgets import *
 app = QApplication([])
-
-window = Qwidget()
+window = QWidget()
 window.show()
-
+# window1 = QWidget()
+# window1.show()
 app.exec()
-=======
-Merhaba
->>>>>>> e17eae01c75df312c66c5306769d4b14ee4a3c6f
