@@ -1,0 +1,9 @@
+from PyQT6.QWidgets import =
+
+
+app = QApplication([])
+
+window = Qwidget()
+window.show()
+
+app.exec()
