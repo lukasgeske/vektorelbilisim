@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from PyQT6.QWidgets import =
 
 
@@ -7,3 +8,6 @@ window = Qwidget()
 window.show()
 
 app.exec()
+=======
+Merhaba
+>>>>>>> e17eae01c75df312c66c5306769d4b14ee4a3c6f
